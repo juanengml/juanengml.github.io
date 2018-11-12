@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Juan Manoel | Full Machine Learning Engineer</title>
+
+		<meta name="title" content="Juan Manoel | Full Machine Learning Engineer"/>
+        <meta name="description" content="Python expert, Data Scientist specialist and technical writter and IoT Development specialist. Working on Software Architecture, Cloud Computing, Microservices and Web Development Culture.">
+        <meta name="keywords" content="Juan Manoel, Full Machine Learning Engineer, Data Scientist, BigRobot, SWML, Education, Training, Instructor, EAD, Python, Sklearn, Deep Learning, Keras, TensorFlow, Microservices, Spring Framework, Software Architecture, Cloud Computing, Distributed Systems, Raspberry, IoT Services, Development Web Serivices"/>
+
+        <meta property="og:locale" content="en_US">
+        <meta property="og:site_name" content="Juan Manoel | Profile" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Juan Manoel | Full Machine Learning Engineer" />
+        <meta property="og:description" content="Python expert, Data Scientist specialist and technical writter and IoT Development specialist. Working on Software Architecture, Cloud Computing, Microservices and Web Development Culture.">
+        <meta name="keywords" content="Juan Manoel, Full Machine Learning Engineer, Data Scientist, BigRobot, SWML, Education, Training, Instructor, EAD, Python, Sklearn, Deep Learning, Keras, TensorFlow, Microservices, Spring Framework, Software Architecture, Cloud Computing, Distributed Systems, Raspberry, IoT Services, Development Web Serivices" />
+         
+         
+        
+
+        <meta name="robots" content="all"/>
+        <meta name="url" content="http://juanengml.github.io"/>
+        <meta name="author" content="Juan Manoel" />
+        <link rel="canonical" href="http://juanengml.github.io" />
+
+		<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
+		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css" />
+		<link href="v2/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+		<link href="v2/assets/plugins/slider.swiper/dist/css/swiper.min.css" rel="stylesheet" type="text/css" />
+		<link href="v2/assets/css/essentials.css" rel="stylesheet" type="text/css" />
+		<link href="v2/assets/css/layout.css" rel="stylesheet" type="text/css" />
+
+		<link href="v2/assets/css/header-1.css" rel="stylesheet" type="text/css" />
+		<link href="v2/assets/css/color_scheme/darkblue.css" rel="stylesheet" type="text/css" id="color_scheme" />
+		<link href="v2/assets/css/pack-caffe.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body class="smoothscroll enable-animation menu-vertical">
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.7&appId=536203243239225";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+		<div id="wrapper">
+			<div id="mainMenu" class="navbar-toggleable-md sidebar-vertical sidebar-dark">
+				<div class="sidebar-nav">
+					<div class="navbar navbar-default" role="navigation">
+						<a href="pack-caffe-home-1.html" class="logo text-center mb-0 mt-0 pt-15 pb-0 w-100p">
+							<img class="logo-xs-half" src="assets/images/me.jpeg" style="width: 150px; height: 150px;" alt="Juan Manoel">
+                            <div class="text-center mb-0 mt-0 pt-15 w-100p">
+                                <h1 style="color: #FFF; font-size: 26px; margin: 0;">Juan Manoel</h1>
+                                <h2 style="color: #FFF; font-size: 16px;">Full  Machine Learning Engineer</h2>
+                            </div>
+                        </a>
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="navbar-collapse sidebar-navbar-collapse collapse w-100p">
+							<ul class="nav navbar-nav nav-onepage">
+								<li class="active">
+									<a href="#profile"><i class="et-beaker"></i> Profile </a>
+								</li>
+								<li>
+									<a href="#professional-experience"><i class="et-layers"></i> Professional Experience </a>
+								</li>
+								<li>
+									<a href="#education-skills"><i class="et-trophy"></i> Education & Skills </a>
+								</li>
+								<li>
+									<a href="https://www.linkedin.com/in/juan-manoel-6309ba84/" target="_contact"><i class="et-envelope"></i> Contact Me </a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="social-icons text-center">
+					<a href="https://www.linkedin.com/in/juan-manoel-6309ba84/" target="_blank" class="social-icon social-icon-sm social-icon-light social-linkedin" data-toggle="tooltip" data-placement="top" title="Linkedin">
+						<i class="icon-linkedin"></i>
+						<i class="icon-linkedin"></i>
+					</a>
+					<a href="https://github.com/juanengml" target="_blank" class="social-icon social-icon-sm social-icon-light social-github" data-toggle="tooltip" data-placement="top" title="GitHub">
+						<i class="fa fa-github"></i>
+						<i class="fa fa-github"></i>
+					</a>
+                    <a href="https://www.facebook.com/juan.manoel.98" target="_blank" class="social-icon social-icon-sm social-icon-light social-facebook" data-toggle="tooltip" data-placement="top" title="Facebook">
+						<i class="icon-facebook"></i>
+						<i class="icon-facebook"></i>
+					</a>
+					<a href="https://www.instagram.com/juanengml/" target="_blank" class="social-icon social-icon-sm social-icon-light social-instagram" data-toggle="tooltip" data-placement="top" title="Instagram">
+						<i class="icon-instagram"></i>
+						<i class="icon-instagram"></i>
+					</a>
+				</div>
+				<p class="text-center hidden-sm-down">
+					<strong>juanengml@gmail.com</strong><br />
+					Toledo | PR - Brazil
+				</p>
+			</div>
+
+			<section id="profile" class="b-0">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1">
+							<div class="row">
+								<div class="col-lg-12 order-lg-2">
+									<header>
+										<h2 class="fs-25"><span>Focado na arquitetura de software e resolução de problemas</span></h2>
+										<p class="fw-300"></p>
+									</header>
+									<p>
+                                        Ajudo empresas no desenvolvimento de softwares com técnicas de Machine Learning e ofereço as melhores soluções para que seja possível evoluir seus negócios e de seus clientes de forma eficiente, precisa e com qualidade.
+										<br>
+                                        Minhas especialidades:<br>
+									+ Python<br>
+									+ Flask<br>
+									+ Django<br>
+									+ Jupyter<br>
+									+ CSV data<br>
+									+ Sqlite<br>
+									+ Sklearn,Numpy, Pandas<br>
+									+ Visão Computacional(OpenCV,OpenBR)<br>
+									+ Processamento de linguagem natural(Natural Language Toolkit)<br>
+									+ Soluções de Machine Learning<br>
+									+ Sistemas e protocolos Embarcados (HTTP,esp8266, MQTT, ZigBee)<br>
+									+ Programação em C para embarcados<br>
+									+ HTML5, CSS3<br>
+									+ Bootstrap 4.0<br>
+									+ Gitlab, Github<br>
+									+ Cabeamento Estruturado<br>
+									+ Administração de Servidores Linux<br>
+									+ Configuração De ativos de rede(Switch, hub, routers, endpoints, gateways)<br>
+
+                                    </p>
+									<p>Apoio as ideias do movimento de Software Livre e Hardware Livre, o qual reforça a importância de boas skills em Arduino e Python. Portanto compartilho experiências sobre tecnologia em oficinas e palestras que organizo em minha cidade natal com foco em disseminação de tecnologia para crianças, tendo palestrado em importantes eventos de Rondônia  como Orgulho Nerd Ji-parana e extremamente ativo em grupos de pesquisa locais como GPMecatronica(Federal) e e GEMM (Estadual) e também presente em eventos externos como Dummot HackerSpace na Campus Party e atualmente faço parte do time de pesquisa em Internet das Coisas na UTFPR-TD.</p>
+                                    <p>Além disso, sou co-fundador da comunidade BigRobot. Nós inovamos a forma de ensinar crianças e entusiastas da robótica, tornamos mais simples e acessível o uso e a construção de plataformas móveis de robótica com sucata, com o desenvolvimento de softwares capaz de detectar qrcode, detectar faces, detectar linhas e contornos, tudo programado de forma fácil para um iniciante pegar e fazer de forma rica no aprendizado e divertida na construção.
+</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="professional-experience" class="parallax parallax-auto b-0" style="background-image:url('v2/assets/images/packs/caffe/cover/locations-min.jpg')">
+				<div class="display-table">
+					<div class="display-table-cell vertical-align-middle">
+						<div class="container text-center">
+							<h2 class="fw-600 mt-30 mb-3 wow fadeIn" data-wow-delay="0.3s">Professional Experience</h2>
+							<span class="fw-400 text-white wow fadeInUp fs-18 wow fadeIn" data-wow-delay="0.8s">Companies and technologies</span>
+						</div>
+					</div>
+				</div>
+				<span class="raster overlay dark-3 z-index-0"></span>
+			</section>
+
+			<section>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-10 offset-sm-1">
+							<div class="timeline">
+									<div class="timeline-item timeline-item-bordered">
+											<div class="timeline-entry rounded">
+												2018<span></span>
+												<div class="timeline-vline"></div>
+											</div>
+											<h2 class="fs-20 mb-0">Junior Data Scientist </h2>
+											<time class="block mb-20 fs-13" datetime="2018"><a href="http://www.dplaw.com.br/" target="_dplaw">dplaw - Pontes Pinto e Pignaneli Sociedade de Advogados </a> (2018)</time>
+											<p>
+												DPLAW é uma gigante do mercado de advocacia na região norte do Brasil <br><br>
+												Responsável por fazer webscrap em sites dos tribunais e fazer analise preditiva dos dados para treinamento de legalbots com redes neurais com CNN e SVM models, usei tecnologias como python, sklearn, jupyter, ntlk e gitlab. 
+											</p>
+									</div>
+									<div class="timeline-item timeline-item-bordered">
+											<div class="timeline-entry rounded">
+												2018<span></span>
+												<div class="timeline-vline"></div>
+											</div>
+											<h2 class="fs-20 mb-0">Software Engineer</h2>
+											<time class="block mb-20 fs-13" datetime="2017"><a href="https://www.facebook.com/BigRobots2018/" target="_big-robots-comunity">Big Robots Comunity</a> (2017 - Presente)</time>
+											<p>
+												BigRobot é um projeto open-source (codigo aberto) e open-hardware (hardware aberto), que consiste em um robo simples de construir, sendo basicamente uma caixa de gabinete com rodas como chassi, porém o foco não é pensar no chassi e sim pensar em tornar simples no uso de frameworks e bibliotecas OpenCV, PySerial e tantas outras.<br><br>
+												Atuo desenvolvendo bibliotecas para facilitar o uso de visão computacional para crianças, adolescentes, makers e entusiastas, também desenvolvo bibliotecas para controle de robôs robustos usando soluções em python, o Robo 'Big Robots' tem sua própria lib para uso aberto de toda comunidade. Também atuo como instrutor em palestras e oficinas de disseminação do Software Livre
+											</p>
+									</div>
+									<div>
+                                    <a href="https://www.linkedin.com/in/juan-manoel-6309ba84/" target="_linkedin">
+                                        <button type="submit" class="btn btn-primary btn-v1" style="width: 250px;"> See more on Linkedin &nbsp; <i class="fa fa-chevron-right"></i></button>
+                                    </a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+            <section id="education-skills" class="parallax parallax-auto b-0" style="background-image:url('v2/assets/images/packs/caffe/cover/food_and_drinks-min.jpg')">
+				<div class="display-table">
+					<div class="display-table-cell vertical-align-middle">
+						<div class="container text-center">
+							<h2 class="fw-600 mt-30 mb-3 wow fadeIn" data-wow-delay="0.3s">Education</h2>
+							<span class="fw-400 text-white wow fadeInUp fs-18 wow fadeIn" data-wow-delay="0.8s">Academic background and skills</span>
+						</div>
+					</div>
+				</div>
+				<span class="raster overlay dark-3 z-index-0"></span>
+			</section>
+
+            <section class="alternate b-0">
+				<div class="container">
+                    <header class="text-center">
+						<h2 class="fs-25">Featured Skills</h2>
+						<p class="fw-300 mb-0">Evolutionary technical knowledge</p>
+					</header>
+                    <div class="row">
+						<div class="col-md-4">
+							<div class="testimonial testimonial-bordered p-15">
+								<cite style="font-style: normal;">
+                                    <h2 class="fs-20 mb-0">Main Technologies</h2>
+                                    <span>&nbsp;</span>
+								</cite>
+								<div class="testimonial-content" style="padding-left: 20px;">
+                                    <ul class="list-unstyled">
+                                        <li><strong>Web Development - HTML , CSS , Bootstrap </strong></li> 
+                                        <li><strong>Vision Computer - OpenCV , SimpleCV , OpenBR , ObrCV </strong></li> 
+                                        <li><strong>Maker Culture</strong></li>
+                                        <li><strong>Natural Processing Language  - NLTK</strong></li> 
+                                        <li><strong>Python - Flask, Django</strong></li> 
+                                        <li><strong>IoT Development - nodemcu , arduino , raspberry , intel edson   </strong></li> 
+                                        <li><strong>Linux Embarcado - Yocto / Ubuntu Core , Ubuntu Mate , raspbian  </strong></li> 
+                                        <li><strong> DevOps - Gitlab , Github  </strong></li>
+
+                                        <li><strong>&nbsp;</strong></li>
+                                    </ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="testimonial testimonial-bordered p-15">
+								<cite style="font-style: normal;">
+                                    <h2 class="fs-20 mb-0">Academic background</h2>
+                                    <span>&nbsp;</span>
+								</cite>
+                                <div class="testimonial-content" style="padding-left: 20px;">
+                                    <ul class="list-unstyled">
+                                        <li class="item">
+                                            <span class="title"><strong>Machine Learning Engineer </strong></span><br>
+                                            <span class="level">Udacity (2018)</span><br><br>
+                                        </li>
+                                        <li class="item">
+                                            <span class="title"><strong>Computer Engineer</strong></span><br>
+                                            <span class="level">UTFPR(Em Andamento)</span><br><br>
+                                        </li>
+                                        <li class="item">
+                                            <span class="title"><strong>Técnico em Redes de Computadores</strong></span><br>
+                                            <span class="level">Senai Marechal Rondon(2015)</span>
+                                        </li>
+                                    </ul>
+                                </div>
+							</div>
+						</div>
+                        <div class="col-md-4">
+							<div class="testimonial testimonial-bordered p-15">
+								<cite style="font-style: normal;">
+                                    <h2 class="fs-20 mb-0">Languages</h2>
+                                    <span>&nbsp;</span>
+								</cite>
+
+                                <div class="testimonial-content" style="padding-left: 20px;">
+                                    <ul class="list-unstyled">
+                                        <li class="item">
+                                            <span class="title"><strong>Portuguese</strong></span><br>
+                                            <span class="level">Native speaker</span><br><br>
+                                        </li>
+                                        <li class="item">
+                                            <span class="title"><strong>English</strong></span><br>
+                                            <span class="level">Professional proficiency</span><br><br>
+                                        </li>
+                                        <li class="item">
+                                            <span class="title"><strong>Germany</strong></span><br>
+                                            <span class="level">proficiency</span>
+                                        </li>
+                                    </ul>
+                                </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<footer id="footer" class="fs-13">
+				<div class="container">
+					<strong>Knowledge is a more sublime way of giving yourself to another.</strong> Last update on 2018-07-28T17:11:36
+				</div>
+			</footer>
+		</div>
+		<a href="#" id="toTop"></a>
+		<div id="preloader">
+			<div class="inner">
+				<span class="loader"></span>
+			</div>
+		</div>
+        <script>
+            var inProduction = window.location.host.indexOf('localhost') === -1;
+
+            if (inProduction) {
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                  ga('create', 'UA-79675115-1', 'auto');
+                  ga('send', 'pageview');
+            }
+        </script>
+		<script>var plugin_path = 'v2/assets/plugins/';</script>
+		<script src="v2/assets/plugins/jquery/jquery-3.3.1.min.js"></script>
+		<script src="v2/assets/js/scripts.js"></script>
+	</body>
+</html>
