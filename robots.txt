@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: http://ryanpadilha.com.br/sitemap.xml
+Sitemap: http://juanengml.github.io/sitemap.xml
